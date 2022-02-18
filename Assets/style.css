@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.navbar-brand{
+    font-family: Poppins;
+}
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: Poppins;
+  }
+
+.logo_home{
+    width: 150px;
+}
+.homepage_txt1{
+    font-family: Poppins;
+    color: white;
+    font-size: 50px;
+}
+
+.logo_home a{ position: relative;
